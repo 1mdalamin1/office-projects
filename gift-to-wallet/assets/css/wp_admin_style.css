@@ -1,0 +1,37 @@
+.admin-from-title{
+    /* text-align: center; */
+    color: #00b9f9;
+    margin: 20px 0;
+    font-size: 25px;
+}
+
+.info {
+    color: #00b9f9;
+}
+li.menu-icon-gift_card a.menu-icon-gift_card .wp-menu-image.dashicons-before img {
+    margin-top: -6px;
+}
+.menu-icon-gift_card .wp-menu-image.dashicons-before img {
+    width: 28px;
+}
+.success {
+    color: #48cd23;
+}
+.error {
+    color: red;
+}
+.btn-wc-gift-card.gift-btn {
+    background: #00b9f9;
+    border: 0;
+    color: #fff;
+    padding: 6px 16px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.btn-wc-gift-card.gift-btn:hover {
+    background: #0086ea;
+}
+
+
+
